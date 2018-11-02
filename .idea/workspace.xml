@@ -1,1012 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d5e2a60-6da0-4d77-97f7-33055f0a8c29" name="Default Changelist" comment="01">
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/CHANGES" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QAxContainer.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qsci.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qsci.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qsci.pyi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DExtras.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DInput.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DLogic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DQuick.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DQuickExtras.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DQuickInput.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DQuickRender.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt53DRender.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Bluetooth.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5CLucene.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Charts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Concurrent.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5DBus.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5DataVisualization.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Designer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5DesignerComponents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Gui.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Help.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Location.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Multimedia.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5MultimediaQuick_p.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5MultimediaWidgets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Network.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Nfc.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5OpenGL.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Positioning.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5PrintSupport.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Purchasing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Qml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Quick.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5QuickControls2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5QuickParticles.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5QuickTemplates2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5QuickTest.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5QuickWidgets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Script.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5ScriptTools.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Scxml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Sensors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5SerialBus.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5SerialPort.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Sql.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Svg.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Test.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5WebChannel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5WebEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5WebEngineCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5WebEngineWidgets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5WebSockets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5WebView.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Widgets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5WinExtras.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5Xml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/Qt5XmlPatterns.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtBluetooth.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtCore.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtDBus.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtDesigner.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtGui.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtHelp.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtLocation.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtMultimedia.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtMultimediaWidgets.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtNetwork.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtNfc.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtOpenGL.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtPositioning.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtPrintSupport.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtQml.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtQuick.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtQuickWidgets.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtSensors.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtSerialPort.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtSql.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtSvg.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtTest.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWebChannel.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWebEngine.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWebEngineCore.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWebEngineProcess.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWebEngineProcessd.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWebEngineWidgets.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWebSockets.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWidgets.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtWinExtras.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtXml.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/QtXmlPatterns.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/_QOpenGLFunctions_2_0.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/_QOpenGLFunctions_2_1.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/_QOpenGLFunctions_4_1_Core.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/assistant.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/canbusutil.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/clean_binaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/d3dcompiler_47.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/designer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/dumpcpp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/dumpdoc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/fixqt4headers.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/idc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/lconvert.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/libEGL.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/libGLESv2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/licheck.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/linguist.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/lrelease.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/lupdate.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/moc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/msvcp140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/opengl32sw.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/pixeltool.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/PyQt5/pyqt5qmlplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/audio/qtaudio_windows.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/bearer/qgenericbearer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/bearer/qnativewifibearer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/canbus/qtpeakcanbus.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/canbus/qttinycanbus.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/designer/pyqt5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/designer/qaxwidget.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/designer/qquickwidget.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/generic/qtuiotouchplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/geoservices/qtgeoservices_mapbox.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/geoservices/qtgeoservices_nokia.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/geoservices/qtgeoservices_osm.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/iconengines/qsvgicon.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qdds.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qgif.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qicns.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qico.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qjpeg.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qsvg.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qtga.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qtiff.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qwbmp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/imageformats/qwebp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/mediaservice/dsengine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/mediaservice/qtmedia_audioengine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/platforminputcontexts/qtvirtualkeyboardplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/platforms/qminimal.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/platforms/qoffscreen.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/platforms/qwindows.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/playlistformats/qtmultimedia_m3u.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/position/qtposition_geoclue.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/position/qtposition_positionpoll.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/position/qtposition_serialnmea.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/printsupport/windowsprintersupport.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/qmltooling/qmldbg_debugger.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/qmltooling/qmldbg_inspector.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/qmltooling/qmldbg_local.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/qmltooling/qmldbg_native.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/qmltooling/qmldbg_profiler.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/qmltooling/qmldbg_quickprofiler.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/qmltooling/qmldbg_server.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/qmltooling/qmldbg_tcp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/scenegraph/softwarecontext.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sceneparsers/assimpsceneio.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sceneparsers/gltfsceneio.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sensorgestures/qtsensorgestures_plugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sensorgestures/qtsensorgestures_shakeplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sensors/qtsensors_generic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sqldrivers/qsqlite.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sqldrivers/qsqlmysql.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sqldrivers/qsqlodbc.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/plugins/sqldrivers/qsqlpsql.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/pylupdate.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/pylupdate_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/pyrcc.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/pyrcc5.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/pyrcc_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/pyuic5.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qcollectiongenerator.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qdbus.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qdbuscpp2xml.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qdbusviewer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qdbusxml2cpp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qdoc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qgltf.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qhelpconverter.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qhelpgenerator.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qlalr.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmake.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/WebSockets/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/calendar/DayOfWeekRow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/calendar/MonthGrid.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/calendar/WeekNumberColumn.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/calendar/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/calendar/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/calendar/qtlabscalendarplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/folderlistmodel/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/folderlistmodel/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/folderlistmodel/qmlfolderlistmodelplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/settings/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/settings/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt/labs/settings/qmlsettingsplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Core/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Core/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Core/quick3dcoreplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Extras/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Extras/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Extras/quick3dextrasplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Input/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Input/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Input/quick3dinputplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Logic/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Logic/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Logic/quick3dlogicplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Render/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Render/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/Qt3D/Render/quick3drenderplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtBluetooth/declarative_bluetooth.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtBluetooth/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtBluetooth/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCanvas3D/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCanvas3D/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/ChartViewSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/AreaSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/BarSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/BoxPlotSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/HorizontalBarSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/HorizontalPercentBarSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/HorizontalStackedBarSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/LineSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/PercentBarSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/PieSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/PolarAreaSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/PolarLineSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/PolarScatterSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/PolarSplineSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/ScatterSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/SplineSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/default/StackedBarSeries.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/areaseries-chart-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/areaseries-chart-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/areaseries-polar-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/areaseries-polar-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/barseries-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/barseries-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/boxplotseries-chart-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/boxplotseries-chart-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/horizontalbarseries-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/horizontalbarseries-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/horizontalpercentbarseries-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/horizontalpercentbarseries-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/horizontalstackedbarseries-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/horizontalstackedbarseries-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/lineseries-chart-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/lineseries-chart-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/lineseries-polar-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/lineseries-polar-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/percentbarseries-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/percentbarseries-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/pieseries-chart-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/pieseries-chart-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/scatterseries-chart-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/scatterseries-chart-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/scatterseries-polar-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/scatterseries-polar-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/splineseries-chart-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/splineseries-chart-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/splineseries-polar-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/splineseries-polar-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/stackedbarseries-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/images/stackedbarseries-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/designer/qtcharts.metainfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtCharts/qtchartsqml2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/datavisualizationqml2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/Bars3DSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/Scatter3DSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/Surface3DSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/default/Bars3D.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/default/Scatter3D.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/default/Surface3D.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/images/bars3d-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/images/bars3d-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/images/scatter3d-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/images/scatter3d-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/images/surface3d-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/images/surface3d-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/designer/qtdatavisualization.metainfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtDataVisualization/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGamepad/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGamepad/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/Blend.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/BrightnessContrast.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/ColorOverlay.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/Colorize.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/ConicalGradient.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/Desaturate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/DirectionalBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/Displace.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/DropShadow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/FastBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/GammaAdjust.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/GaussianBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/Glow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/HueSaturation.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/InnerShadow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/LevelAdjust.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/LinearGradient.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/MaskedBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/OpacityMask.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/RadialBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/RadialGradient.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/RectangularGlow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/RecursiveBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/ThresholdMask.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/ZoomBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/DropShadowBase.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/FastGlow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/FastInnerShadow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/FastMaskedBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/GaussianDirectionalBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/GaussianGlow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/GaussianInnerShadow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/GaussianMaskedBlur.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/private/qtgraphicaleffectsprivate.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtGraphicalEffects/qtgraphicaleffectsplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtLocation/declarative_location.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtLocation/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtLocation/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtMultimedia/Video.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtMultimedia/declarative_multimedia.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtMultimedia/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtMultimedia/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtNfc/declarative_nfc.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtNfc/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtNfc/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtPositioning/declarative_positioning.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtPositioning/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtPositioning/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtPurchasing/declarative_purchasing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtPurchasing/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtPurchasing/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQml/Models.2/modelsplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQml/Models.2/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQml/Models.2/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQml/StateMachine/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQml/StateMachine/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQml/StateMachine/qtqmlstatemachine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQml/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQml/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick.2/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick.2/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick.2/qtquick2plugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/AbstractButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ApplicationWindow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/BusyIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Button.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/CheckBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/CheckDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/CheckIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ComboBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Container.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Control.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Dial.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Drawer.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Frame.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/GroupBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ItemDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Label.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ApplicationWindow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/BoxShadow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/BusyIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Button.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/CheckBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/CheckDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/CheckIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ComboBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Dial.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Drawer.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ElevationEffect.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Frame.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/GroupBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ItemDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Label.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Menu.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/MenuItem.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Page.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/PageIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Pane.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Popup.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ProgressBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/RadioButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/RadioDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/RadioIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/RangeSlider.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Ripple.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ScrollBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ScrollIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Slider.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/SliderHandle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/SpinBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/StackView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/SwipeDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/SwipeView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Switch.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/SwitchDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/SwitchIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/TabBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/TabButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/TextArea.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/TextField.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ToolBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ToolButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/ToolTip.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/Tumbler.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Material/qtquickcontrols2materialstyleplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Menu.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/MenuItem.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Page.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/PageIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Pane.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Popup.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ProgressBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/RadioButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/RadioDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/RadioIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/RangeSlider.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ScrollBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ScrollIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Slider.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/SpinBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/StackView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/SwipeDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/SwipeView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Switch.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/SwitchDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/SwitchIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/TabBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/TabButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/TextArea.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/TextField.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ToolBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ToolButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/ToolTip.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Tumbler.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ApplicationWindow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/BusyIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Button.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/CheckBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/CheckDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/CheckIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ComboBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Dial.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Drawer.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Frame.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/GroupBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ItemDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Label.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Menu.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/MenuItem.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Page.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/PageIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Pane.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Popup.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ProgressBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/RadioButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/RadioDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/RadioIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/RangeSlider.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ScrollBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ScrollIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Slider.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/SpinBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/StackView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/SwipeDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Switch.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/SwitchDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/SwitchIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/TabBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/TabButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/TextArea.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/TextField.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ToolBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ToolButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/ToolTip.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/Tumbler.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/Universal/qtquickcontrols2universalstyleplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/BusyIndicatorSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ButtonSection.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ButtonSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/CheckBoxSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/CheckDelegateSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ComboBoxSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ControlSection.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ControlSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/DialSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/FrameSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/GroupBoxSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ItemDelegateSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/LabelSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/PaddingSection.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/PageIndicatorSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/PaneSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ProgressBarSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/RadioButtonSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/RadioDelegateSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/SliderSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/SpinBoxSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/SwipeDelegateSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/SwitchSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/TextAreaSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/TextFieldSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ToolBarSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/ToolButtonSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/TumblerSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/busyindicator-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/busyindicator-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/busyindicator-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/busyindicator-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/button-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/button-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/button-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/button-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/checkbox-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/checkbox-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/checkbox-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/checkbox-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/combobox-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/combobox-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/combobox-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/combobox-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/dial-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/dial-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/dial-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/dial-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/frame-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/frame-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/frame-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/frame-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/groupbox-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/groupbox-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/groupbox-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/groupbox-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/itemdelegate-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/itemdelegate-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/itemdelegate-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/itemdelegate-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/label-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/label-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/label-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/label-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/page-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/page-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/page-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/page-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/pageindicator-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/pageindicator-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/pageindicator-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/pageindicator-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/pane-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/pane-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/pane-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/pane-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/placeholder-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/placeholder-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/placeholder-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/placeholder-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/progressbar-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/progressbar-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/progressbar-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/progressbar-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/radiobutton-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/radiobutton-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/radiobutton-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/radiobutton-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/rangeslider-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/rangeslider-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/rangeslider-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/rangeslider-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/slider-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/slider-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/slider-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/slider-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/spinbox-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/spinbox-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/spinbox-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/spinbox-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/switch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/switch-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/switch-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/switch-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/textarea-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/textarea-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/textarea-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/textarea-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/textfield-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/textfield-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/textfield-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/textfield-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/toolbar-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/toolbar-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/toolbar-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/toolbar-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/toolbutton-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/toolbutton-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/toolbutton-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/toolbutton-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/tumbler-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/tumbler-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/tumbler-icon16@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/images/tumbler-icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/designer/qtquickcontrols2.metainfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls.2/qtquickcontrols2plugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/ApplicationWindow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/BusyIndicator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Button.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Calendar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/CheckBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/ComboBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/GroupBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Label.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Menu.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/MenuBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/AbstractCheckable.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/BasicButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/BasicTableView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/CalendarHeaderModel.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/CalendarUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/ColumnMenuContent.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/ContentItem.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/Control.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/EditMenu.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/EditMenu_base.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/FastGlow.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/FocusFrame.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/HoverButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/MenuContentItem.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/MenuContentScroller.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/MenuItemSubControls.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/ModalPopupBehavior.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/ScrollBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/SourceProxy.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/StackView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/StackViewSlideDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/Style.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/SystemPaletteSingleton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/TabBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/TableViewItemDelegateLoader.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/TableViewSelection.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/TextHandle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/TextInputWithHandles.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/TextSingleton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/ToolMenuButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/TreeViewItemDelegateLoader.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Private/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/ProgressBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/RadioButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/ScrollView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Slider.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/SpinBox.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/SplitView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/StackView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/StackViewDelegate.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/StackViewTransition.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/StatusBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/ApplicationWindowStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/BasicTableViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/BusyIndicatorStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/ButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/CalendarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/CheckBoxStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/CircularButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/CircularGaugeStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/CircularTickmarkLabelStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/ComboBoxStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/CommonStyleHelper.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/DelayButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/DialStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/FocusFrameStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/GaugeStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/GroupBoxStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/HandleStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/HandleStyleHelper.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/MenuBarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/MenuStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/PieMenuStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/ProgressBarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/RadioButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/ScrollViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/SliderStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/SpinBoxStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/StatusBarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/StatusIndicatorStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/SwitchStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/TabViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/TableViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/TextAreaStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/TextFieldStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/ToggleButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/ToolBarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/ToolButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/TreeViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/TumblerStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/arrow-down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/arrow-down@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/arrow-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/arrow-left@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/arrow-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/arrow-right@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/arrow-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/arrow-up@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/button_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/check@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/editbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/focusframe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/groupbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/knob.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/leftanglearrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/needle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/progress-indeterminate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/rightanglearrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/scrollbar-handle-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/scrollbar-handle-transient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/scrollbar-handle-vertical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/slider-groove.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/slider-handle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/spinner_large.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/spinner_medium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/spinner_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/tab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Base/images/tab_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/ApplicationWindowStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/BusyIndicatorStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/ButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/CalendarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/CheckBoxStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/ComboBoxStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/FocusFrameStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/GroupBoxStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/MenuBarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/MenuStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/ProgressBarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/RadioButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/RowItemSingleton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/ScrollViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/SliderStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/SpinBoxStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/StatusBarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/SwitchStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/TabViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/TableViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/TextAreaStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/TextFieldStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/ToolBarStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/ToolButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/TreeViewStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Desktop/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Flat/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/Flat/qtquickextrasflatplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Styles/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Switch.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/Tab.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/TabView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/TableView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/TableViewColumn.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/TextArea.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/TextField.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/ToolBar.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/ToolButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/TreeView.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Controls/qtquickcontrolsplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/DefaultColorDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/DefaultDialogWrapper.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/DefaultFileDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/DefaultFontDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/DefaultMessageDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/Private/dialogsprivateplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/Private/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/Private/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/WidgetColorDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/WidgetFileDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/WidgetFontDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/WidgetMessageDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/dialogplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/checkers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/checkmark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/critical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/crosshairs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/information.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/question.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/slider_handle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/sunken_frame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/warning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/images/window_border.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/qml/ColorSlider.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/qml/DefaultWindowDecoration.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/qml/IconButtonStyle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/qml/IconGlyph.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/qml/icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/qml/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Dialogs/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/Private/CircularButton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/Private/CircularButtonStyleHelper.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/Private/CircularTickmarkLabel.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/Private/Handle.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/Private/PieMenuIcon.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/Private/TextSingleton.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/Private/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/CircularGaugeSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/DelayButtonSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/DialSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/GaugeSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/PictureSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/PieMenuSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/StatusIndicatorSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/ToggleButtonSpecifics.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/circulargauge-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/circulargauge-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/delaybutton-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/delaybutton-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/dial-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/dial-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/gauge-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/gauge-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/picture-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/picture-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/piemenu-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/piemenu-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/statusindicator-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/statusindicator-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/togglebutton-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/togglebutton-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/tumbler-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/images/tumbler-icon16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/designer/qtquickextras.metainfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Extras/qtquickextrasplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Layouts/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Layouts/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Layouts/qquicklayoutsplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/LocalStorage/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/LocalStorage/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/LocalStorage/qmllocalstorageplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Particles.2/particlesplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Particles.2/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Particles.2/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/PrivateWidgets/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/PrivateWidgets/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/PrivateWidgets/widgetsplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Scene3D/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Scene3D/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Scene3D/qtquickscene3dplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Templates.2/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Templates.2/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Templates.2/qtquicktemplates2plugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/VirtualKeyboard/Styles/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/VirtualKeyboard/Styles/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/VirtualKeyboard/Styles/qtvirtualkeyboardstylesplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/VirtualKeyboard/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/VirtualKeyboard/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Window.2/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Window.2/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/Window.2/windowplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/XmlListModel/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/XmlListModel/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtQuick/XmlListModel/qmlxmllistmodelplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtScxml/declarative_scxml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtScxml/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtScxml/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtSensors/declarative_sensors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtSensors/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtSensors/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtTest/SignalSpy.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtTest/TestCase.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtTest/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtTest/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtTest/qmltestplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtTest/testlogger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebChannel/declarative_webchannel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebChannel/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebChannel/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/AlertDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/AuthenticationDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/ColorDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/ConfirmDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/FilePicker.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/Menu.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/MenuItem.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/MenuSeparator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/MessageBubble.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/PromptDialog.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/UIDelegates/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/experimental/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/experimental/qtwebengineexperimentalplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebEngine/qtwebengineplugin.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebSockets/declarative_qmlwebsockets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebSockets/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebSockets/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebView/declarative_webview.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebView/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWebView/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWinExtras/JumpListDestination.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWinExtras/JumpListLink.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWinExtras/JumpListSeparator.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWinExtras/plugins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWinExtras/qml_winextras.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/QtWinExtras/qmldir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qml/builtins.qmltypes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmleasing.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmlimportscanner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmllint.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmlmin.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmlplugindump.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmlprofiler.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmlscene.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qmltestrunner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qscintilla2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qscxmlc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qt.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qtdiag.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qtenv2.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qtpaths.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/qtplugininfo.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/rcc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/sip.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/syncqt.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/testcon.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Compiler/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Compiler/compiler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Compiler/indenter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Compiler/misc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Compiler/proxy_metaclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Compiler/qobjectcreator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Compiler/qtproxies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Loader/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Loader/loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/Loader/qobjectcreator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/icon_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/objcreator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v2/as_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v2/ascii_upper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v2/proxy_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v2/string_io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v3/as_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v3/ascii_upper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v3/proxy_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/port_v3/string_io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/properties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/pyuic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/uiparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/widget-plugins/qaxcontainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/widget-plugins/qscintilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/widget-plugins/qtcharts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/widget-plugins/qtprintsupport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/widget-plugins/qtquickwidgets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/widget-plugins/qtwebenginewidgets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/uic/widget-plugins/qtwebkit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/windeployqt.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/xmlpatterns.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/PyQt5/xmlpatternsvalidator.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/qt.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/src/PyQt5_gpl-5.7.1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/src/QScintilla_gpl-2.9.4.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/src/sip-4.19.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-qt5/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reference.py" afterDir="false" />
+    <list default="true" id="0d5e2a60-6da0-4d77-97f7-33055f0a8c29" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference.py" beforeDir="false" afterPath="$PROJECT_DIR$/reference.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1045,14 +42,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1565" />
+          <entry key="py" value="1658" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="1565" />
+          <entry key="Python" value="1658" />
         </counts>
       </usages-collector>
     </session>
@@ -1079,7 +76,15 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reference.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+              <folding>
+                <element signature="e#14#24#0" expanded="true" />
+                <marker date="1541138371964" expanded="true" signature="69:74" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -1133,6 +138,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="zhantao &lt;312307134@qq.com&gt;" />
         <option value="zhantao" />
       </list>
     </option>
@@ -1166,8 +172,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="392" />
-    <option name="y" value="175" />
+    <option name="x" value="282" />
+    <option name="y" value="38" />
     <option name="width" value="1400" />
     <option name="height" value="965" />
   </component>
@@ -1320,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541127423535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="01">
+      <created>1541138169729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541138169729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1333,7 +346,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="392" y="175" width="1400" height="965" extended-state="0" />
+    <frame x="282" y="38" width="1400" height="965" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28507462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1382,22 +396,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/资料/Houdini/runHoudini.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maya.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-qt5/2.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1416,8 +420,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reference.py">
+    <entry file="file://$PROJECT_DIR$/python-qt5/2.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/Houdini/runHoudini.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+            <marker date="1541138371964" expanded="true" signature="69:74" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
