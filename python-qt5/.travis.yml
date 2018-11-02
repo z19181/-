@@ -1,0 +1,14 @@
+language: python
+python:
+- 2.7
+script:
+- pip install git+git://github.com/pyqt/python-qt5.git
+deploy:
+  provider: pypi
+  user: mottosso
+  distributions: "sdist"
+  password:
+    secure: c2n8K185Yz8u7y4zeqmZC+lkGIRqWJubHi/3SVdelQF+rgCUbbCg25B4TTAM0r1ESReuLixjVpU2UmuJ8LonmUsCicnBA0gbWfTfkIMICVZ+0+s3WYnlIAaO0rYj581vVwTXC/iN8nRepcjsczA0HThRp3lILB7ZjNxLRYivFRY=
+  on:
+    tags: true
+    all_branches: true
